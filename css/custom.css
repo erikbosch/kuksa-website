@@ -1,0 +1,17 @@
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+.navbar-brand img {
+  height: 100%;
+}
+
+#heading-breadcrumbs {
+  background: url('../img/texture-bw.png') center center repeat;
+}
+/* PK: height = logo height + 20px */ 
+/*.navbar-brand {
+  height: 100px;
+}*/
+
